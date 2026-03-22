@@ -3,8 +3,8 @@
 Pour cloner et lancer cette application, vous devez avoir **Git**, **Node.js** (Version 20.x ou supérieure - LTS recommandée) et **npm** installés sur votre ordinateur.
 
 ### Prérequis Mobiles
-* **Expo Go** : Installez l'application sur votre téléphone depuis le [Google Play Store] ou l'[Apple App Store].
-* **Réseau** : Assurez-vous que votre téléphone et votre ordinateur sont connectés au **même réseau Wi-Fi**.
+* Installez l'application **Expo Go** sur votre téléphone depuis le [Google Play Store] ou l'[Apple App Store].
+* Assurez-vous que votre téléphone et votre ordinateur sont connectés au **même réseau Wi-Fi**.
 
 ###  Lancement via le terminal
 Exécutez les commandes suivantes dans votre terminal pour configurer et démarrer le projet :
