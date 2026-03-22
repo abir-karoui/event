@@ -1,12 +1,13 @@
-How To Use
-To clone and run this application, you'll need Git and Node.js (v20 or higher) installed on your computer. From your command line:
+## How To Use
 
-Bash
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
+
+```bash
 # Clone this repository
-$ git clone https://github.com/votre-utilisateur/votre-repo
+$ git clone [https://github.com/votre-nom/votre-projet](https://github.com/votre-nom/votre-projet)
 
 # Go into the repository
-$ cd votre-repo
+$ cd votre-projet
 
 # Install dependencies
 $ npm install
