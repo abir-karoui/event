@@ -23,7 +23,7 @@ $ npm install
 $ npx expo start
 ```
 
-Une fois le serveur lancé (Étape 4), un QR Code s'affichera dans votre terminal :
+Une fois le serveur lancé , un QR Code s'affichera dans votre terminal :
 
 Android : Ouvrez l'application Expo Go et scannez le code.
 
