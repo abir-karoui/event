@@ -1,16 +1,30 @@
-## How To Use
+## Guide d'utilisation
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
+Pour cloner et lancer cette application, vous devez avoir **Git**, **Node.js** (Version 20.x ou supérieure - LTS recommandée) et **npm** installés sur votre ordinateur.
+
+### Prérequis Mobiles
+* **Expo Go** : Installez l'application sur votre téléphone depuis le [Google Play Store] ou l'[Apple App Store].
+* **Réseau** : Assurez-vous que votre téléphone et votre ordinateur sont connectés au **même réseau Wi-Fi**.
+
+###  Lancement via le terminal
+Exécutez les commandes suivantes dans votre terminal pour configurer et démarrer le projet :
 
 ```bash
-# Clone this repository
-$ git clone [https://github.com/votre-nom/votre-projet](https://github.com/votre-nom/votre-projet)
+# 1. Cloner ce dépôt
+$ git clone .....
 
-# Go into the repository
-$ cd votre-projet
+# 2. Accéder au dossier du projet
+$ cd ...
 
-# Install dependencies
+# 3. Installer les dépendances
 $ npm install
 
-# Run the app
+# 4. Lancer l'application
 $ npx expo start
+```
+
+Une fois le serveur lancé (Étape 4), un QR Code s'affichera dans votre terminal :
+
+Android : Ouvrez l'application Expo Go et scannez le code.
+
+iOS : Utilisez l'application Appareil Photo d'origine pour scanner le code.
